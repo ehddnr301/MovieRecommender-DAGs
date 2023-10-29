@@ -35,11 +35,6 @@ class SimplePostgresTransfer(ABCTransfer):
         query = f"SELECT * FROM {self.table_name} WHERE created_at > '{last_hour_time_str}' AND created_at <= '{current_time_str}'"
         df = pd.read_sql(query, self.source_conn)
 
-        columns_to_drop = ["recommended_movie_id_list", "genres"]
-        columns_to_drop = [col for col in columns_to_drop if col in df.columns]
-        if columns_to_drop:
-            df = df.drop(columns=columns_to_drop)
-
         delete_query = f"DELETE FROM {self.table_name} WHERE created_at > '{last_hour_time_str}' AND created_at <= '{current_time_str}'"
         self.target_conn.execute(text(delete_query))
 
