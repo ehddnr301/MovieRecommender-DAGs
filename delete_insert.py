@@ -82,6 +82,7 @@ for filename in os.listdir("/opt/airflow/dags/etl-dags"):
             schedule_interval=schedule_interval,
             start_date=start_date,
             catchup=catchup,
+            is_paused_upon_creation=False,
         )
 
         load_data_task = PythonOperator(

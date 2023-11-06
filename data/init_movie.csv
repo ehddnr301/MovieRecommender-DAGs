@@ -1,0 +1,122 @@
+movie_id,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,"American President, The (1995)",Comedy|Drama|Romance
+12,Dracula: Dead and Loving It (1995),Comedy|Horror
+13,Balto (1995),Adventure|Animation|Children
+14,Nixon (1995),Drama
+15,Cutthroat Island (1995),Action|Adventure|Romance
+16,Casino (1995),Crime|Drama
+17,Sense and Sensibility (1995),Drama|Romance
+18,Four Rooms (1995),Comedy
+19,Ace Ventura: When Nature Calls (1995),Comedy
+20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+21,Get Shorty (1995),Comedy|Crime|Thriller
+22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+24,Powder (1995),Drama|Sci-Fi
+25,Leaving Las Vegas (1995),Drama|Romance
+28,Persuasion (1995),Drama|Romance
+29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+31,Dangerous Minds (1995),Drama
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+34,Babe (1995),Children|Drama
+36,Dead Man Walking (1995),Crime|Drama
+39,Clueless (1995),Comedy|Romance
+40,"Cry, the Beloved Country (1995)",Drama
+41,Richard III (1995),Drama|War
+44,Mortal Kombat (1995),Action|Adventure|Fantasy
+45,To Die For (1995),Comedy|Drama|Thriller
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+48,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+58,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+60,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+65,Bio-Dome (1996),Comedy
+70,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+81,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+100,City Hall (1996),Drama|Thriller
+104,Happy Gilmore (1996),Comedy
+107,Muppet Treasure Island (1996),Adventure|Children|Comedy|Musical
+110,Braveheart (1995),Action|Drama|War
+111,Taxi Driver (1976),Crime|Drama|Thriller
+123,Chungking Express (Chung Hing sam lam) (1994),Drama|Mystery|Romance
+135,Down Periscope (1996),Comedy
+141,"Birdcage, The (1996)",Comedy
+144,"Brothers McMullen, The (1995)",Comedy
+150,Apollo 13 (1995),Adventure|Drama|IMAX
+151,Rob Roy (1995),Action|Drama|Romance|War
+153,Batman Forever (1995),Action|Adventure|Comedy|Crime
+154,Beauty of the Day (Belle de jour) (1967),Drama
+162,Crumb (1994),Documentary
+163,Desperado (1995),Action|Romance|Western
+164,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller
+168,First Knight (1995),Action|Drama|Romance
+180,Mallrats (1995),Comedy|Romance
+188,"Prophecy, The (1995)",Fantasy|Horror|Mystery
+196,Species (1995),Horror|Sci-Fi
+203,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy
+222,Circle of Friends (1995),Drama|Romance
+223,Clerks (1994),Comedy
+231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+232,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+235,Ed Wood (1994),Comedy|Drama
+246,Hoop Dreams (1994),Documentary
+252,I.Q. (1994),Comedy|Romance
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+261,Little Women (1994),Drama
+272,"Madness of King George, The (1994)",Comedy|Drama
+277,Miracle on 34th Street (1994),Drama
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+315,"Specialist, The (1994)",Action|Drama|Thriller
+318,"Shawshank Redemption, The (1994)",Crime|Drama
+327,Tank Girl (1995),Action|Comedy|Sci-Fi
+333,Tommy Boy (1995),Comedy
+337,What's Eating Gilbert Grape (1993),Drama
+345,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama
+356,Forrest Gump (1994),Comedy|Drama|Romance|War
+362,"Jungle Book, The (1994)",Adventure|Children|Romance
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+377,Speed (1994),Action|Romance|Thriller
+393,Street Fighter (1994),Action|Adventure|Fantasy
+432,City Slickers II: The Legend of Curly's Gold (1994),Adventure|Comedy|Western
+446,Farewell My Concubine (Ba wang bie ji) (1993),Drama|Romance
+500,Mrs. Doubtfire (1993),Comedy|Drama
+527,Schindler's List (1993),Drama|War
+531,"Secret Garden, The (1993)",Children|Drama
+534,Shadowlands (1993),Drama|Romance
+539,Sleepless in Seattle (1993),Comedy|Drama|Romance
+575,"Little Rascals, The (1994)",Children|Comedy
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+599,"Wild Bunch, The (1969)",Adventure|Western
+605,One Fine Day (1996),Drama|Romance
+608,Fargo (1996),Comedy|Crime|Drama|Thriller
+616,"Aristocats, The (1970)",Animation|Children
+631,All Dogs Go to Heaven 2 (1996),Adventure|Animation|Children|Fantasy|Musical|Romance
+637,Sgt. Bilko (1996),Comedy
+671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+707,Mulholland Falls (1996),Crime|Drama|Thriller
+902,Breakfast at Tiffany's (1961),Drama|Romance
+903,Vertigo (1958),Drama|Mystery|Romance|Thriller
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+1214,Alien (1979),Horror|Sci-Fi
+1278,Young Frankenstein (1974),Comedy|Fantasy
+1345,Carrie (1976),Drama|Fantasy|Horror|Thriller
+1407,Scream (1996),Comedy|Horror|Mystery|Thriller
+1414,Mother (1996),Comedy
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+2579,Following (1998),Crime|Mystery|Thriller
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+3793,X-Men (2000),Action|Adventure|Sci-Fi
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy
+114335,La cravate (1957),(no genres listed)
